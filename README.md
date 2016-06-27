@@ -1,4 +1,6 @@
 # angular2-component
 
-npm install
+npm install 
+
+
 npm start
